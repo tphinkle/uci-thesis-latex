@@ -24,10 +24,15 @@
 \usepackage{subcaption}  % \begin{subfigure}...\end{subfigure} within figure
 \usepackage{multirow}
 \usepackage{tabularx}
+\usepackage{siunitx}
+\usepackage{amssymb}
+
 
 % plainpages=false fixes the "duplicate ignored" error with page counters
 % Set pdfborder to 0 0 0 to disable colored borders around PDF hyperlinks
 \usepackage[plainpages=false,pdfborder={0 0 0}]{hyperref}
+
+
 
 % Uncomment the following two lines to use the algorithm package,
 % which provides an algorithm environment similar to figure and table
@@ -56,6 +61,10 @@
 \newtheorem{definition}{\textsc{Definition}}[chapter]
 \newtheorem{example}{\textsc{Example}}[chapter]
 
+% Matrix
+\newcommand{\matr}[1]{\mathbf{#1}}
+
+
 % Macros for title, author, abstract, etc.
 \input{preliminaries}
 
@@ -65,6 +74,13 @@
 	pdfauthor={\Authorname},
 	pdfsubject={\Degreefield},
 }
+
+
+%\theoremstyle{definition}
+%\newtheorem{definition}{Definition}[section]
+ 
+%\theoremstyle{remark}
+%\newtheorem*{remark}{Remark}
 
 % Uncomment the following to have numbered subsubsections (by default
 % numbering goes only to subsections).
@@ -85,7 +101,6 @@
 % Include the different components of your thesis, in separate files.
 % Using \include allows you to set \includeonly above.
 \include{chapter1}
-%\include{chapter2}
 % ... and so on
 
 % These commands fix an odd problem in which the bibliography line
@@ -95,8 +110,9 @@
 
 % "References should be formatted in style most common in discipline",
 % abbrv is only a suggestion.
+
 \bibliographystyle{abbrv}
-\bibliography{thesis}
+\bibliography{../../LaTeX/references/references}
 
 % The Thesis Manual says not to include appendix figures and tables in
 % the List of Figures and Tables, respectively, so these commands from

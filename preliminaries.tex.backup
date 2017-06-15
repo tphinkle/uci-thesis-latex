@@ -1,23 +1,23 @@
-\thesistitle{Applications of Synthetic Microchannel and Nanopore systems}
+\thesistitle{Title of the Thesis}
 
 \degreename{Doctor of Philosophy}
 
 % Use the wording given in the official list of degrees awarded by UCI:
 % http://www.rgs.uci.edu/grad/academic/degrees_offered.htm
-\degreefield{Physics \& Astronomy}
+\degreefield{Computer Science}
 
 % Your name as it appears on official UCI records.
-\authorname{Preston Hinkle}
+\authorname{Your name}
 
 % Use the full name of each committee member.
-\committeechair{Dr. Zuzanna S. Siwy}
+\committeechair{Professor A}
 \othercommitteemembers
 {
-  Dr. Jun Allard \\
-  Dr. Ilya Krivorotov
+  Professor B\\
+  Professor C
 }
 
-\degreeyear{2017}
+\degreeyear{2012}
 
 \copyrightdeclaration
 {
