@@ -16,8 +16,9 @@
 \contentsline {subsection}{\numberline {1.2.4}Particles}{12}{subsection.1.2.4}
 \contentsline {subsection}{\numberline {1.2.5}Equations of motion for fluidic systems---Navier--Stokes equations}{13}{subsection.1.2.5}
 \contentsline {subsection}{\numberline {1.2.6}Motion of ions in a solvent---Poisson-Nernst-Planck equation}{15}{subsection.1.2.6}
-\contentsline {subsection}{\numberline {1.2.7}The diffuse layer}{17}{subsection.1.2.7}
-\contentsline {subsection}{\numberline {1.2.8}Electroosmosis}{22}{subsection.1.2.8}
-\contentsline {chapter}{Bibliography}{24}{section*.13}
-\contentsline {chapter}{\numberline {A}Appendix Title}{25}{appendix.A}
-\contentsline {section}{\numberline {A.1}Lorem Ipsum}{25}{section.A.1}
+\contentsline {subsection}{\numberline {1.2.7}The diffuse layer---Poisson-Boltzmann equation}{17}{subsection.1.2.7}
+\contentsline {subsection}{\numberline {1.2.8}Surface conductance}{22}{subsection.1.2.8}
+\contentsline {subsection}{\numberline {1.2.9}Electroosmosis}{24}{subsection.1.2.9}
+\contentsline {chapter}{Bibliography}{27}{section*.13}
+\contentsline {chapter}{\numberline {A}Appendix Title}{28}{appendix.A}
+\contentsline {section}{\numberline {A.1}Lorem Ipsum}{28}{section.A.1}
